@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahan Jose</h1>
-<h3 align="center">An ambitious  3rd year computer science and engineering student at Model Engineering college.</h3>
+<h3 align="center">An ambitious  4th year computer science and engineering student at Model Engineering college.</h3>
 
 - 📫 mail-mdl21cs093@mec.ac.in
 
